@@ -11,7 +11,7 @@
 -   🖥️ GitHub Profile Stats
 
 <div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=RamonChaves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgb-keys)](https://github.com/RGB-Keys/github-readme-stats)
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonChaves&layout=compact&theme=dark&hide=html,css,scss" />
 </div>
 
