@@ -19,7 +19,7 @@
 <h2> 📚 Hard Skills </h2>
 
 <!--   🔧frameWorks   -->
-🔧 Languages ​​and FrameWorks
+🔧 Languages ​​and Frameworks
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle" />
@@ -27,7 +27,7 @@
 </p>
 
 <!--   🛠tools   -->
-🛠 My tools
+🛠 My Tools
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,bash,powershell" />
