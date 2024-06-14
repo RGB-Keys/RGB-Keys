@@ -15,6 +15,9 @@
  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgb-keys&layout=compact&theme=tokyonight&hide=html,css,scss" />
 </div>
 
+<!--   📊Skills   -->
+<h2> 📊 Hard Skills </h2>
+
 <!--   🔧frameWorks   -->
 🔧 Languages ​​and FrameWorks
 <p>
