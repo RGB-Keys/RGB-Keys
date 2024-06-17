@@ -8,7 +8,7 @@
 <!--   📊stats   -->
 <h2> 📊 Github Stats </h2>
 
--   🖥️ GitHub Profile Stats
+ <h4> 🖥️ GitHub Profile Stats </h4>
 
 <div align="center">
  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=rgb-keys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
