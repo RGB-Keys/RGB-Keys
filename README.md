@@ -16,7 +16,7 @@
 </div>
 
 <!--   📚Skills   -->
-<h2> 📚 Hard Skills </h2>
+<h2> 📚 Skills </h2>
 
 <!--   🔧frameWorks   -->
 🔧 Languages ​​and Frameworks
