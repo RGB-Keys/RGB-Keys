@@ -20,7 +20,7 @@
 
 <!--   🔧frameWorks   -->
 
-<h5> 🔧 Languages ​​and Frameworks </h5>
+<h4> 🔧 Languages ​​and Frameworks </h4>
 
 <p>
   <a>
@@ -29,7 +29,8 @@
 </p>
 
 <!--   🛠tools   -->
-🛠 My Tools
+
+<h4> 🛠 My Tools </h4>
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,bash,powershell" />
@@ -37,7 +38,9 @@
 </p>
 
 <!--   ☁️cloud   -->
-☁️ Cloud
+
+<h4> ☁️ Cloud </h4>
+
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=aws" />
@@ -45,7 +48,9 @@
 </p>
 
 <!--   ⚙devops   -->
-⚙ DevOps
+
+<h4> ⚙ DevOps </h4>
+
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=docker" />
@@ -53,7 +58,9 @@
 </p>
 
 <!--   🛢databases   -->
-🛢 Databases
+
+<h4> 🛢 Databases </h4>
+
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
