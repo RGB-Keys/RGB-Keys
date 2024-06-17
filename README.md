@@ -1,7 +1,7 @@
 ### Hello! I'm Ramon Chaves 👋 
 
 -   🌎 I'm from Recife, PE - Brasil
--   🖥 Software Engineer
+-   👨‍💻 Software Engineer
  
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgb-keys/)
 
