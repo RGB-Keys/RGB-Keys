@@ -19,7 +19,7 @@
 <h2> 📚 Skills </h2>
 
 <!--   🔧frameWorks   -->
-🔧 Languages ​​and Frameworks
+<h3> 🔧 Languages ​​and Frameworks </h3>
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle" />
