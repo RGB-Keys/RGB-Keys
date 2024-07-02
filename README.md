@@ -24,7 +24,7 @@
 
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=spring,java,maven,gradle" />
+    <img src="https://skillicons.dev/icons?i=spring,java,kotlin,javascript,maven,gradle" />
   </a>
 </p>
 
